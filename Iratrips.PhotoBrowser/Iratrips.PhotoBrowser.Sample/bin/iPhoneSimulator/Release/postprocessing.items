@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Iratrips.PhotoBrowser.Sample.app/Iratrips.PhotoBrowser.Sample">
+      <BCSymbolMapName>Iratrips.PhotoBrowser.Sample.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Iratrips.PhotoBrowser.Sample.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/pravin/Projects/PhotoBrowser/Iratrips.PhotoBrowser/Iratrips.PhotoBrowser.Sample/obj/iPhoneSimulator/Release/mtouch-symbols.list</SymbolFile>
+      <DSymName>Iratrips.PhotoBrowser.Sample.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/pravin/Projects/PhotoBrowser/Iratrips.PhotoBrowser/Iratrips.PhotoBrowser.Sample</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

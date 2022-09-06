@@ -1,0 +1,7 @@
+/Users/pravin/Projects/PhotoBrowser/Iratrips.PhotoBrowser/Iratrips.PhotoBrowser/bin/Release/Iratrips.PhotoBrowser.dll
+/Users/pravin/Projects/PhotoBrowser/Iratrips.PhotoBrowser/Iratrips.PhotoBrowser/bin/Release/Iratrips.PhotoBrowser.pdb
+/Users/pravin/Projects/PhotoBrowser/Iratrips.PhotoBrowser/Iratrips.PhotoBrowser/obj/Release/_ProcessedBundleResourcesPath.items
+/Users/pravin/Projects/PhotoBrowser/Iratrips.PhotoBrowser/Iratrips.PhotoBrowser/obj/Release/_ProcessedContentPath.items
+/Users/pravin/Projects/PhotoBrowser/Iratrips.PhotoBrowser/Iratrips.PhotoBrowser/obj/Release/Iratrips.PhotoBrowser.csproj.CoreCompileInputs.cache
+/Users/pravin/Projects/PhotoBrowser/Iratrips.PhotoBrowser/Iratrips.PhotoBrowser/obj/Release/Iratrips.PhotoBrowser.dll
+/Users/pravin/Projects/PhotoBrowser/Iratrips.PhotoBrowser/Iratrips.PhotoBrowser/obj/Release/Iratrips.PhotoBrowser.pdb

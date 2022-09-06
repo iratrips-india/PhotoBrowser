@@ -1,0 +1,28 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "7.0.0",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "b8c2c28a16cd1e32719d9b13f14b7195a51fbf6a727822a4e27f5c0c32789e84",
+      "name" : "SKPhotoBrowser",
+      "container" : "SKPhotoBrowser.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "7cc92c694e181a49ade4bc50876c2f7be217bcf08c02b1b946be365bf5358364",
+      "name" : "SKPhotoBrowser",
+      "container" : "SKPhotoBrowser.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    }
+  ]
+}

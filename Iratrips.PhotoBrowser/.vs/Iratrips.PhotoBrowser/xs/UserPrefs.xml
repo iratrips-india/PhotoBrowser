@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{89A28689-99CB-47F2-88AE-673C6D4F7C08}|Default">
+  <MonoDevelop.Ide.ItemProperties.Iratrips.PhotoBrowser.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BEAB116F-BB12-491B-95A9-5CFDB9B8DDD0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Iratrips.PhotoBrowser/ApiDefinition.cs">
+    <Files>
+      <File FileName="Iratrips.PhotoBrowser.Sample/ViewController.cs" Line="8" Column="6" />
+      <File FileName="Iratrips.PhotoBrowser/ApiDefinition.cs" Line="20" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iratrips.PhotoBrowser" expanded="True">
+            <Node name="Iratrips.PhotoBrowser" expanded="True">
+              <Node name="NativeReferenceFolder" expanded="True" />
+            </Node>
+            <Node name="Iratrips.PhotoBrowser.Sample" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BEAB116F-BB12-491B-95A9-5CFDB9B8DDD0" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+</Properties>
